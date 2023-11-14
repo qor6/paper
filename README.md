@@ -1,2 +1,2 @@
-# symmetrical-octo-garbanzo
+# paper in seminar or univ. lectures
 Seminar paper
