@@ -1,2 +1,3 @@
-# paper in seminar or univ. lectures
+# Paper 
 Seminar paper
+univ._lectures
