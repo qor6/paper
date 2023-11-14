@@ -1,5 +1,7 @@
 # Paper 
 
-Seminar paper
+년도별 정리
 
-Univ._lectures
+-세미나 발표 관련 논문
+
+-공모전 관련 논문
