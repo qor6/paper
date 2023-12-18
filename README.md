@@ -15,5 +15,5 @@
 - Carbontracker:Tracking and Predicting the Carbon Footprint of Training Deep Learning Models (carbon power 공모전 관련 논문)
 - Energy and Policy Considerations for Deep Learning in NLP (논문 작성 관련 논문)
 - Learning Graph-Based Geographical Latent Representation for Point-of-Interest Recommendation (세미나 발표 논문)
-- Koopa- Learning Non-stationary Time Series Dynamics with Koopman Predictors
+- Koopa- Learning Non-stationary Time Series Dynamics with Koopman Predictors(뉴럴네트워크 수업 프로젝트 SOTA 논문)
 
