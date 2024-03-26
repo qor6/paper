@@ -5,6 +5,8 @@
 
 -공모전 관련 논문
 
+-수업 관련 논문
+
 -etc.
 
 ## 22년도
@@ -14,9 +16,9 @@
 ## 23년도
 - Carbontracker:Tracking and Predicting the Carbon Footprint of Training Deep Learning Models (carbon power 공모전 관련 논문)
 - Energy and Policy Considerations for Deep Learning in NLP (논문 작성 관련 논문)
-- Koopa- Learning Non-stationary Time Series Dynamics with Koopman Predictors(뉴럴네트워크 수업 프로젝트 SOTA 논문)
-- Book: Hands-On Graph Neural Networks Using Python
+- Koopa- Learning Non-stationary Time Series Dynamics with Koopman Predictors (뉴럴네트워크 수업 프로젝트 SOTA 논문)
+- Book: Hands-On Graph Neural Networks Using Python (세미나 관련)
 
 ## 24년도
-- Development of a Coordinate Measuring Machine—Based Inspection Planning System for Industry 4.0
-- Deep learning–based intelligent measurement methods and system for CMM
+- Development of a Coordinate Measuring Machine—Based Inspection Planning System for Industry 4.0 (수업)
+- Deep learning–based intelligent measurement methods and system for CMM (수업)
