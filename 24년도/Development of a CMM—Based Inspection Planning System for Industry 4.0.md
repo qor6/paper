@@ -8,6 +8,7 @@ Industry 4.0 정의 : 산업 4.0은 전략적인 계획으로 제조 및 제조 
 측정 실험: 가공된 프리즘 형태 제품(prismatic workpiece)에서 실험 수행
 
 # **진행 프로세스**
+![image](https://github.com/qor6/paper/assets/87318054/4baf5b67-6acd-444f-af10-40885e7c9628)
 
 - IGES 및 STL 파일에서 기하학적 특징(GF)을 추출하고 제품(PW)의 측정적 특징에 대한 기하적인 치수 및 공차(GD&T)를 정의하며 온톨로지 지식 베이스에 통합하기 위한 **EO 모델**
 
