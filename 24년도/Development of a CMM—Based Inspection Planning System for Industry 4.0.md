@@ -11,14 +11,9 @@ Industry 4.0 정의 : 산업 4.0은 전략적인 계획으로 제조 및 제조 
 ![image](https://github.com/qor6/paper/assets/87318054/4baf5b67-6acd-444f-af10-40885e7c9628)
 
 - IGES 및 STL 파일에서 기하학적 특징(GF)을 추출하고 제품(PW)의 측정적 특징에 대한 기하적인 치수 및 공차(GD&T)를 정의하며 온톨로지 지식 베이스에 통합하기 위한 **EO 모델**
-
-⇒ CAD에서 IGES나 STL 파일을 불러와 온톨로지 지식(EO)을 기반으로 제품의 기하적인 특성(GF)을 고려한 치수 및 공차를 반영한 parameter들을 결정 (N,n,np,a,b,D,Di, H,Hi)
-
 - 측정 포인트의 분포(Hammersley’s 알고리즘)와 접근성, 충돌 회피 분석을 통합하는 **수학적 모델**
-
-⇒ 초기 측정 경로(MP)는 point-to-point로 하여  수학적 모델 적용
-
 - IP2SM4.0의 MP 최적화의 설계를 위한 **ACO 모델**, 최적의 제품 위치 설정 및 프로브 최적화를 위한 **GA 모델**
-- MatLab, PTC Creo 및 STEP-NC Machine에서의 시뮬레이션으로 적절한 출력 파일 생성.
+- MatLab, PTC Creo 및 STEP-NC Machine에서의 시뮬레이션으로 적절한 출력 파일 생성
 
-⇒ ACO와 GA 모델은 통한 최적화 및 시뮬레이션
+⇒ CAD에서 IGES나 STL 파일을 불러와 온톨로지 지식(EO)을 기반으로 제품의 기하적인 특성(GF)을 고려한 치수 및 공차를 반영한 parameter들을 결정 (N,n,np,a,b,D,Di, H,Hi)한다.
+초기 측정 경로(MP)는 point-to-point로 하여 수학적 모델 적용시킨다. ACO와 GA 모델은 통한 최적화와 시뮬레이션을 진행하여 파일을 생성한다.
