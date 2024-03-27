@@ -20,5 +20,5 @@
 - Book: Hands-On Graph Neural Networks Using Python (세미나 관련)
 
 ## 24년도
-- Development of a Coordinate Measuring Machine—Based Inspection Planning System for Industry 4.0 (수업)
-- Deep learning–based intelligent measurement methods and system for CMM (수업)
+- Development of a Coordinate Measuring Machine—Based Inspection Planning System for Industry 4.0 (졸작 실증 수업 관련 논문)
+- Deep learning–based intelligent measurement methods and system for CMM (졸작 실증 수업 논문)
