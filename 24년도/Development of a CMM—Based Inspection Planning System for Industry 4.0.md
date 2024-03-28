@@ -17,3 +17,6 @@ Industry 4.0 정의 : 산업 4.0은 전략적인 계획으로 제조 및 제조 
 
 ⇒ CAD에서 IGES나 STL 파일을 불러와 온톨로지 지식(EO)을 기반으로 제품의 기하적인 특성(GF)을 고려한 치수 및 공차를 반영한 parameter들을 결정 (N,n,np,a,b,D,Di, H,Hi)한다.
 초기 측정 경로(MP)는 point-to-point로 하여 수학적 모델 적용시킨다. ACO와 GA 모델은 통한 최적화와 시뮬레이션을 진행하여 파일을 생성한다.
+
+
+https://github.com/JerryX1110/Awesome-3D-Anomaly-Detection?tab=readme-ov-file
